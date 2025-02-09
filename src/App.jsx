@@ -1,5 +1,5 @@
 import Character from "./components/character"
-import GuideBar from "./components/guideBar";
+import GuideBar from "./components/GuideBar";
 import "./App.css";
 
 function App() {
